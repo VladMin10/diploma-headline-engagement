@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+# Only code is published. Data, annotation inputs, experiment configs and
+# results stay outside the repository (see README, "What is not here").
+data/
+annotations/
+experiments/
+reports/
